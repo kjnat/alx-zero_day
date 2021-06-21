@@ -1,1 +1,1 @@
-This is mandatory in all ALX School project
+This is mandatory, in all ALX School project
